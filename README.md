@@ -49,7 +49,7 @@ Prompt engineering helped me break down tasks, while my own vibe coding made it 
 
 ## 🙌 Special Thanks
 
-> Inspired by the magic of **Prompt Engineering** and guided by my coding buddy **Leo (ChatGPT)** 😄  
+> Inspired by the magic of **Prompt Engineering** 😄  
 > Every bug, every line, every effect — a step toward better understanding and building ✨
 
 ---
